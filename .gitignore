@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.ml-envs/
+venv/
+env/
+
+# Caches
+.cache/
+nltk_data/
+
+# Data files (not to be committed)
+train.csv
+test.csv
+*.txt
+
+# OS files
+.DS_Store
+
