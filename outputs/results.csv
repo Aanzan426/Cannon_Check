@@ -1,61 +1,61 @@
-id,label
-95,consistent
-136,consistent
-59,consistent
-60,consistent
-124,contradict
-111,consistent
-135,consistent
-27,consistent
-110,contradict
-42,consistent
-56,consistent
-80,consistent
-28,consistent
-101,consistent
-91,consistent
-24,consistent
-119,consistent
-93,consistent
-72,contradict
-16,contradict
-30,consistent
-97,contradict
-22,consistent
-53,consistent
-58,consistent
-81,consistent
-47,consistent
-7,consistent
-121,consistent
-129,consistent
-51,consistent
-127,consistent
-133,consistent
-52,contradict
-114,consistent
-2,consistent
-33,contradict
-15,consistent
-82,consistent
-37,consistent
-3,consistent
-103,contradict
-94,contradict
-85,consistent
-21,consistent
-49,consistent
-140,consistent
-64,consistent
-131,consistent
-61,consistent
-86,consistent
-38,consistent
-132,contradict
-77,consistent
-70,consistent
-115,contradict
-78,consistent
-87,contradict
-75,consistent
-44,contradict
+id,label,rationale
+95,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+136,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+59,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+60,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+124,0,Low or non-distinct similarity to book content; insufficient supporting evidence (inconsistent).
+111,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+135,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+27,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+110,0,Low or non-distinct similarity to book content; insufficient supporting evidence (inconsistent).
+42,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+56,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+80,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+28,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+101,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+91,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+24,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+119,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+93,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+72,0,Low or non-distinct similarity to book content; insufficient supporting evidence (inconsistent).
+16,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+30,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+97,0,Low or non-distinct similarity to book content; insufficient supporting evidence (inconsistent).
+22,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+53,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+58,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+81,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+47,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+7,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+121,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+129,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+51,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+127,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+133,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+52,0,Low or non-distinct similarity to book content; insufficient supporting evidence (inconsistent).
+114,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+2,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+33,0,Low or non-distinct similarity to book content; insufficient supporting evidence (inconsistent).
+15,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+82,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+37,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+3,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+103,0,Low or non-distinct similarity to book content; insufficient supporting evidence (inconsistent).
+94,0,Low or non-distinct similarity to book content; insufficient supporting evidence (inconsistent).
+85,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+21,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+49,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+140,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+64,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+131,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+61,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+86,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+38,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+132,0,Low or non-distinct similarity to book content; insufficient supporting evidence (inconsistent).
+77,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+70,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+115,0,Low or non-distinct similarity to book content; insufficient supporting evidence (inconsistent).
+78,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+87,0,Low or non-distinct similarity to book content; insufficient supporting evidence (inconsistent).
+75,1,High relative similarity to book content with no strong conflicting evidence (consistent).
+44,0,Low or non-distinct similarity to book content; insufficient supporting evidence (inconsistent).
