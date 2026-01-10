@@ -1,15 +1,14 @@
-Backstory Consistency Verification
-
-Kharagpur Data Science Hackathon 2026
+CANNON_CHECK
+Validating fictional backstories against canonical source text.
 
 
 OVERVIEW
 
-This project addresses the task of determining whether a given backstory is consistent or contradictory with respect to a source novel.
+This project solves the task of determining whether a given backstory is consistent or contradictory with respect to a source novel. The final solution treats the problem as a relative semantic alignment task rather than relying on sentence-level Natural Language Inference or rule-based heuristics.
 
-Rather than relying on sentence-level Natural Language Inference or handcrafted rules, the final solution formulates the problem as a relative semantic alignment task. The core idea is to evaluate whether a backstory is unusually well-aligned with the source novel compared to typical text from the same book.
+The key idea is to evaluate whether a backstory is unusually well-aligned with the source novel compared to the rest of the book. This approach proved robust, explainable, and effective under validation.
 
-The final system combines long-context retrieval, book-normalized semantic similarity features, and supervised learning to produce robust, explainable predictions.
+The final model combines long-context retrieval, book-normalized semantic similarity features, and supervised learning.
 
 
 
